@@ -9,6 +9,9 @@
 </h1>
 </div>
   
+  <div align="center">
+  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="600" height="300"/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
